@@ -1,0 +1,4 @@
+detach.py -> gera todos os datasets. não sei pq fiz tudo em xlsx
+exclude.py -> depois de gerar os datasets me liguei que esqueci de remover as colunas no atributo sensível, aí pra não rodar tudo dnv fiz um programinha só pra isso
+calculate.R -> calcula as métricas usando a biblioteca. salva o resultado no arquivo output.txt
+generate.py -> le o arquivo output.txt e adiciona os resultados em results.csv (pela quantidade de comentários da pra ver que o chatgpt que fez rs)

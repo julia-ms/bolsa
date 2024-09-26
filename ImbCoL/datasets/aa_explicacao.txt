@@ -1,0 +1,9 @@
+usei esses datasets só pra entender como funciona a biblioteca
+
+all5_10 -> tinha criado só pra ver o que acontecia com todos os valores iguais pra cada atributo sensível. se estiver com tempo sobrando, recomendo fazer mais alguns datasets artificias pra ententer um pouquinho melhor as métricas que a biblioteca calcula. eu tinha feito uns mas não sei onde botei rs
+intersectional-bias -> o dataset completo que peguei do tcc do diego (se prepara que esse demora pra rodar)
+intersectional-bias2 -> recomendo começar por aqui. tem um atributo sensível binário (homem e mulher) e só as primeiras 600 instâncias para rodar mais rápido. 
+intersectional-bias3 -> esse tem um atributo sensível com 4 possíveis valores (brando, preto, asiático e hispânico). também tem só as primeiras 600 instâncias
+.arff -> esses datasets peguei no git dos testes da biblioteca
+
+em measures.txt tem uma explicação resumida de todas as métricas que a biblioteca calcula

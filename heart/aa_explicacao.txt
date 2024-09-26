@@ -1,0 +1,3 @@
+detach.py -> separa o arquivo nos datasets fem e masc
+calculate.R -> calcula as métricas de cada dataset e salva a resposta em output.txt. Além das métricas da biblioteca, coloca quantas instâncias tem no total, quantas tem o diagnóstico positivo e quantas tem negativo
+generate.py -> le o arquivo txt que foi gerado com os resultados e adiciona ao csv. na época eu fiquei com preguiça de codar e fazia manualmente os ajustes finais no arquivo csv, mas super recomento que tu automatize esse processo se forem seguir fazendo esse trabalho
